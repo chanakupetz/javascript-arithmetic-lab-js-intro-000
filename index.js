@@ -26,10 +26,11 @@ function makeInt(n) {
   return parseInt('n', 10)
 }
 
+/*
 function preserveDecimal(string) {
 
 }
-/*
+
 makeInt(string) should take in a string,
 parse it into an base 10 integer and return it.
 preserveDecimal(string) should take in a string,
