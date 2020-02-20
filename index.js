@@ -21,14 +21,18 @@ function increment(n) {
 function decrement(n) {
   return n -= 1
 }
-/* function decrement(n) {
 
+function makeInt(string) {
+  return 
 }
-Okay, now we're ready to write solutions for the next two functions:
-increment(n) and decrement(n).
-These methods should take in a number,
-and either increments the provided value by one or decrements
-it by one respectively,
-returning the result.
+
+function preserveDecimal(string) {
+  
+}
+/* 
+makeInt(string) should take in a string, 
+parse it into an base 10 integer and return it. 
+preserveDecimal(string) should take in a string, 
+parse it into a float and return it.
 */
  
