@@ -18,6 +18,9 @@ function increment(n) {
   return n += 1
 }
 
+function decrement(n) {
+  return n -= 1
+}
 /* function decrement(n) {
 
 }
@@ -28,3 +31,4 @@ and either increments the provided value by one or decrements
 it by one respectively,
 returning the result.
 */
+ 
