@@ -23,16 +23,15 @@ function decrement(n) {
 }
 
 function makeInt(string) {
-  return 
+  return
 }
 
 function preserveDecimal(string) {
-  
+
 }
-/* 
-makeInt(string) should take in a string, 
-parse it into an base 10 integer and return it. 
-preserveDecimal(string) should take in a string, 
+/*
+makeInt(string) should take in a string,
+parse it into an base 10 integer and return it.
+preserveDecimal(string) should take in a string,
 parse it into a float and return it.
 */
- 
